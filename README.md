@@ -5,3 +5,4 @@
 # konfliktus3
 # Még2
 #  még egy
+# FZ voltam
